@@ -1,4 +1,4 @@
-# Site Architecture: GreenYellow-Ant-903763
+# Site Architecture: www.nextwavelab.net
 
 This repository documents the custom logic and automation scripts powering my e-commerce store at [greenyellow-ant-903763.hostingersite.com](https://greenyellow-ant-903763.hostingersite.com/).
 
