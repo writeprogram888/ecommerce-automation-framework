@@ -1,14 +1,63 @@
-# Site Architecture: www.nextwavelab.net
+# E-Commerce Automation Framework (Demo Project)
 
-This repository documents the custom logic and automation scripts powering my e-commerce store at [greenyellow-ant-903763.hostingersite.com](https://greenyellow-ant-903763.hostingersite.com/).
+This project is a technical demonstration of an automated e-commerce workflow.
 
-## Core Components
-- **Platform:** WordPress + WooCommerce.
-- **Hosting:** Hostinger Managed Cloud.
-- **Customizations:** - Implementation of custom PHP hooks in `functions.php` for optimized order processing.
-  - Integration of 1688 supply chain data flows.
+It is designed to showcase system design, workflow integration, and basic automation logic using a combination of WordPress, PHP, and Python.
 
-## Operational Workflow
-1. **Data Ingestion:** Orders are processed via WooCommerce and synchronized with internal logic.
-2. **Analysis:** Python-based scripts analyze product margins and ROI.
-3. **Fulfillment:** Manual/Automated reconciliation with supplier inventory.
+This is a simulation project for learning and demonstration purposes.
+
+---
+
+## 🧩 Tech Stack
+
+- WordPress + WooCommerce
+- PHP (custom hooks via functions.php)
+- Python (data processing / simulation scripts)
+- Hostinger Cloud Hosting
+
+---
+
+## 🔄 Workflow (Simplified)
+
+1. **Data Input**
+   Orders are generated through WooCommerce.
+
+2. **Processing Logic**
+   Custom PHP logic handles order-related events.
+
+3. **Automation Layer**
+   Python scripts simulate:
+   - Data processing
+   - Basic analysis
+   - Workflow handling
+
+4. **External Interaction (Simulated)**
+   The system models interaction with external services.
+
+
+## 🏗 System Concept
+
+---
+
+## 🎯 Purpose
+
+This project demonstrates:
+
+- Basic system architecture design
+- Integration between different technologies
+- Automation workflow thinking
+- Separation of frontend and backend logic
+
+---
+
+## 📌 Notes
+
+- This is not a production system
+- No real business logic is implemented
+- External integrations are simulated
+
+---
+
+## 🌐 Demo Site
+
+https://nextwavelab.net/
