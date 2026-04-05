@@ -52,7 +52,7 @@ This project demonstrates:
 
 ## 📌 Notes
 
-- This is not a production system
+- This is a demo project (not a production system)
 - No real business logic is implemented
 - External integrations are simulated
 
