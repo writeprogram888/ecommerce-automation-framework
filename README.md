@@ -1,6 +1,6 @@
 # E-Commerce Automation Framework (Demo Project)
 
-This project is a technical demonstration of an automated e-commerce workflow.
+This project demonstrates a simplified automated e-commerce workflow.
 
 It is designed to showcase system design, workflow integration, and basic automation logic using a combination of WordPress, PHP, and Python.
 
